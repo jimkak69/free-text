@@ -1,3 +1,5 @@
+setuptools>=67.7.2
+wheel
 flask==2.0.1
 flask-cors==3.0.10
 pillow==10.4.0
